@@ -1,4 +1,4 @@
-<h4> ⌨️ &nbsp;AI/ML Engineer</h4>
+<h4> ⌨️ &nbsp;AI/ML Engineer | Software Engineer</h4>
 
 <h4> 🛠 &nbsp;Tech Stack</h4>
 
